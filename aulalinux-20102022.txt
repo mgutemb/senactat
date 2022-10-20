@@ -1,0 +1,7 @@
+Terceira Etapa: Instalar Software (Linux)
+                Microsoft - .EXE ou .MSI
+				Linux Mint: 15 - .DEB
+				
+                Instalar o Google Chrome 64bit .deb
+                Instalar Opera Linux
+				Gdebi
