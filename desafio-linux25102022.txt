@@ -5,32 +5,52 @@
 #TEMPO POIS VAI TRAVAR A MÁQUINA VIRTUAL.
 
 #01_ Instalação dos Navegadores (Recomendo via Gdebi)
-	_a - Google Chrome;OK
-	_b - Opera;OK
-	_c - Microsoft Edge;OK
-	_d - Vivaldi;OK
-	_e - Tor;OK
-	_f - Brave.OK
+	_a - Google Chrome;
+	DOWNLOAD OK
+	_b - Opera;
+	DOWNLOAD OK
+	_c - Microsoft Edge;
+	DOWNLOAD OK
+	_d - Vivaldi;
+	DOWNLOAD OK
+	_e - Tor;
+	DOWNLOAD OK
+	_f - Brave.
+	DOWNLOAD OK
 	
 	
 #02_ Instalação do suporte ao TTF (TrueType Fonts)  
-	a_ Ttf-mscorefonts (Gerenciador de AplicativosOK
+	a_ Ttf-mscorefonts (Gerenciador de Aplicativos 
+	DOWNLOAD OK
 
 #03_ Instalação dos Pacote Office
 	_a - WPS Office for Linux (Recomendo via Gdebi)
-	_c - FreeOffice for Linux (Recomendo via Gdebi)
-	_d - OnlyOffice Desktop for Linux (Recomendo AppImagem)
+	DOWNLOAD OK
+	_c - FreeOffice for Linux (Recomendo via Gdebi) 
+	DOWNLOAD OK
+	_d - OnlyOffice Desktop for Linux (Recomendo AppImagem) 
+	DOWNLOAD OK
 	_e - Microsoft Teams for Linux (Recomendo via Gdebi)
-	_f - Skype for Linux (Recomendo via Gdebi)
-	_g - KolourPaint (Gerenciador de Aplicativo)
+	DOWNLOAD OK
+	_f - Skype for Linux (Recomendo via Gdebi) 
+	DOWNLOAD OK
+	_g - KolourPaint (Gerenciador de Aplicativo) 
+	DOWNLOAD OK
 
 #04_ Instalação dos Editores de Texto para Desenvolvimento
-	_a - Visual Studio Code for Linux (Recomendo via Gdebi)
-	_b - NotepadQQ for Linux (Gerenciador de Aplicativo)
-	_c - Atom for Linux (Recomendo via Gdebi)
+	_a - Visual Studio Code for Linux (Recomendo via Gdebi) 
+	DOWNLOAD OK
+	_b - NotepadQQ for Linux (Gerenciador de Aplicativo) 
+	DOWNLOAD OK
+	_c - Atom for Linux (Recomendo via Gdebi) 
+	DOWNLOAD OK
 	_d - Sublime for Linux (Recomendo via Gdebi)
+	DOWNLOAD OK
 	 
 #05_ Instalação de Reprodutores de Música Editor de Áudio e Vídeo
-	_a - VLC VideoOnLan for Linux (Gerenciador de Aplicativo)
-	_b - Audacity (Gerenciador de Aplicativo)
+	_a - VLC VideoOnLan for Linux (Gerenciador de Aplicativo) 
+	DOWNLOAD OK
+	_b - Audacity (Gerenciador de Aplicativo) 
+	DOWNLOAD OK
 	_c - Kdenlive (Recomendo AppImagem)
+	DOWNLOAD OK
