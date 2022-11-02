@@ -1,0 +1,12 @@
+GitHub: - diretório = repositório 
+GitHub: - Microsoft = GNU/Linux Open Service Source
+                      (case sensitive)
+Pesquisar: Markdown - extensão: *.md
+           README.md
+Pesquisar: Comando: git - Editor: VSCode
+                                  (Visual Studio Code)
+		   Clonar
+		 
+	     (instalar o GitHub)
+		 sudo apt update
+		 sudo apt install git vim
