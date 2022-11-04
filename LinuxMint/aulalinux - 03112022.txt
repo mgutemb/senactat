@@ -1,0 +1,34 @@
+Terminal: Ctrl + Alt + T - Bash
+  millena = usuário
+  @       = concaternar
+  millena = nome do computador
+  ------------------------------
+  ~       = alias (referência ao seu Home)
+  $       = referência ao usuário sem direito
+  #       = super usuário ---> root
+  -------------------------------
+  sudo -i ()
+  exit (sair, atalho Ctrl + D) 
+  history (histórico de comandos)
+    ! (executar o comando na linha do history)
+  clear (limpar a tela, atalho Ctrl + L)
+  ---------------------------------
+  Pedir ajuda no Linux:
+  apt        (ajuda simples)
+  apt --help (ajuda resumida no comando)
+  man        (manual do comando)
+  ------------------------------------
+  Guia Foca PT - BR -->  https://www.guiafoca.org/
+  SS64 - EN -->  https://ss64.com/bash/
+  ------------------------------------
+  Comandos de diretórios e arquivos
+  git clone (clonar repositório do github)
+  ls        (lista de arquivos ou diretórios)
+  ls -lh    (modo lista detalhado)
+  cd        (mudar de diretório)
+  TAB       (Tabular: auto-completar)
+  cd ..     (voltar um diretório)
+  
+  
+ 
+  
