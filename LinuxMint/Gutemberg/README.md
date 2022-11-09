@@ -9,7 +9,7 @@ Redes (TCP/IPv4)   ipconfig          ifconfig
 				   nslookup		     nslookup
 				   ping              ping
 
-#Tereira Etapa:    Windows           GNU/Linux
+#Terceira Etapa:    Windows           GNU/Linux
                                      pwd
 					dir	ls
 					cd               cd
